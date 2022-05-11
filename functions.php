@@ -1,8 +1,8 @@
 <?php
-
+/*
 Through the following code, you will be able to expose page and your custom postypes ACF fields in the wordpress REST API and access them inside the ACF object.
-
 You can obviously customise the postypes to exclude or to include in the arrays: $postypes_to_exclude and $extra_postypes_to_include.
+*/
 
 //Push ACF fields to Rest APIs Wordpress
 
